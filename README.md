@@ -51,18 +51,20 @@ void loop()
 }
 ```
 
+### Schematic Simulation
+![image](https://github.com/shehanshajahan/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/139317389/1c710d41-f0c5-4ccd-bb66-ee20b242b33d)
+### FIGURE 02 OFF CONDITION
+![image](https://github.com/shehanshajahan/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/139317389/698153ba-c7df-4bc9-b2ef-c894f52d4f3e)
 ### OUTPUT
-![image](https://github.com/shehanshajahan/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/139317389/c1dca7bc-5dae-47d7-95d0-bbbe8fe8970f)
+![Screenshot 2024-05-08 111512](https://github.com/shehanshajahan/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/139317389/a3716bcc-7841-41ce-98ee-434b59474120)
+
+
+
 
 ### GRAPH AND TABULATION 
-![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/739cc470-48c8-4873-a730-6319b4afc602)
+![image](https://github.com/shehanshajahan/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/139317389/049da840-f03e-4020-bb80-cb9756e5ffb8)
+![image](https://github.com/shehanshajahan/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/139317389/58ade8ad-c8a5-4507-938e-47e79d678896)
 
-
-
-![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/07e9b28e-9a5b-47bd-a023-3c27fe00fb2b)
-
-
-![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/67ed339f-8011-4acc-b793-e5d4930639c7)
 
 
 
